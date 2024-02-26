@@ -1,0 +1,8 @@
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/Simple_Calculator.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/install.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/install/local.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/anna/Desktop/Qt_projects/build-Simple_Calculator-Desktop-Debug/CMakeFiles/Simple_Calculator_autogen.dir
